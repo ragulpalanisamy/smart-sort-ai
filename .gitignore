@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# AI Models (cached locally by sentence-transformers)
+.cache/
+
+# OS specific
+.DS_Store
+Thumbs.db
