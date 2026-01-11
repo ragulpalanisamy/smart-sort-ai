@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg?style=for-the-badge&logo=python)](https://www.python.org/)
 [![AI](https://img.shields.io/badge/AI-Sentence--Transformers-orange?style=for-the-badge)](https://www.sbert.net/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/yourusername/smart-sort-ai?style=for-the-badge)](https://github.com/yourusername/smart-sort-ai/stargazers)
+[![Stars](https://img.shields.io/github/stars/ragulpalanisamy/smart-sort-ai?style=for-the-badge)](https://github.com/ragulpalanisamy/smart-sort-ai)
 
 > **Stop organizing files by extension. Start organizing them by _meaning_.**
 
